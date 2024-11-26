@@ -1,0 +1,7 @@
+.centered-image {
+    display: block; /* hace que la imagen se comporte como un bloque */
+    margin-left: auto; /* alinea la imagen al centro de la fila */
+    margin-right: auto; /* alinea la imagen al centro de la fila */
+    max-width: 100%; /* asegura que la imagen no sobresalga del contenedor */
+    height: auto; /* mantiene la relación de aspecto */
+}
